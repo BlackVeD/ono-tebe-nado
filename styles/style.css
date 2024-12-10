@@ -85,13 +85,13 @@
     font-size: 100px;
     line-height: 115%;
     letter-spacing: 30px;
+    text-transform: uppercase;
   }
 
   .aligned-text {
     z-index: 1;
     display: block;
     position: relative;
-    text-transform: uppercase;
   }
 
   .aligned-text_center {
