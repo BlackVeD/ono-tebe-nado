@@ -91,6 +91,7 @@
     z-index: 1;
     display: block;
     position: relative;
+    text-transform: uppercase;
   }
 
   .aligned-text_center {
@@ -166,6 +167,7 @@
     flex-grow: 1;
     flex-basis: 334px;
     list-style: none;
+    min-height: 563px;
   }
 
   .card {
@@ -291,5 +293,6 @@
   
   .footer__social-icon {
     width: 48px;
+    height: 48px;
   }
   
